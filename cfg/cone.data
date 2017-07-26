@@ -1,6 +1,6 @@
-classes= 1
-Train  = ~/Documents/git-repos/darknet-for-training/data/cone_alex_list.txt
+classes = 1
+Train  = /home/fsd/Documents/git-repos/darknet-for-training/data/cone_alex_list.txt
 valid  = /home/pjreddie/data/conekit/2017_test.txt
-names = ~/Documents/git-repos/darknet-for-training/data/cone.names
-backup = ~/Documents/git-repos/darknet-for-training/backup/
+names = /home/fsd/Documents/git-repos/darknet-for-training/data/cone.names
+backup = /home/fsd/Documents/git-repos/darknet-for-training/backup/
 
